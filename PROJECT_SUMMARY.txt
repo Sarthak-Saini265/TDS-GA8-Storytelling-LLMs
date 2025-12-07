@@ -6,6 +6,8 @@ Student Email:     23f2005347@ds.study.iitm.ac.in
 Course:            TDS GA8 - Data Storytelling with LLMs
 Date:              December 7, 2025
 Status:            ✅ COMPLETE - READY FOR GITHUB PR SUBMISSION
+LLM Tools Used:    GitHub Copilot, ChatGPT
+Codex Reference:   https://chatgpt.com/codex/tasks
 
 ================================================================================
                             KEY METRICS (VERIFIED)

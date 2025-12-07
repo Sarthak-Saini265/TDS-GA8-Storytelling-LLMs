@@ -1,7 +1,9 @@
 # Quick Start Guide - Financial Services CAC Analysis
 
 **Student:** 23f2005347@ds.study.iitm.ac.in  
-**Project:** Data Storytelling with LLMs (GA8)
+**Project:** Data Storytelling with LLMs (GA8)  
+**Codex Task:** https://chatgpt.com/codex/tasks  
+**LLM Tools:** GitHub Copilot, ChatGPT
 
 ---
 
