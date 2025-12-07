@@ -1,0 +1,15 @@
+CUSTOMER ACQUISITION COST ANALYSIS - 2024
+============================================================
+
+Analyst: 23f2005347@ds.study.iitm.ac.in
+Date: 2025-12-07 19:44:08
+
+KEY FINDINGS:
+  - Average CAC: $229.12
+  - Industry Target: $150.00
+  - Gap to Target: $79.12 (52.7% above)
+  - Q4 Trend: Increasing ($233.27)
+
+RECOMMENDATION:
+  Optimize digital marketing channels to reduce CAC
+  Target: Reduce CAC by 35% to reach industry benchmark
