@@ -6,6 +6,10 @@ This script analyzes quarterly CAC data and creates visualizations
 to support data-driven decision making.
 
 Author: 23f2005347@ds.study.iitm.ac.in
+Course: TDS GA8 - Data Storytelling with LLMs
+LLM Assistance: GitHub Copilot, ChatGPT
+Codex Reference: https://chatgpt.com/codex/tasks
+Date: December 7, 2025
 """
 
 import pandas as pd

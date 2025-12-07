@@ -3,7 +3,10 @@
 **Analyst:** 23f2005347@ds.study.iitm.ac.in  
 **Analysis Period:** 2024 Q1-Q4  
 **Report Date:** December 7, 2025  
-**GitHub Repository:** [TDS-GA8-Storytelling-LLMs](https://github.com/Sarthak-Saini265/TDS-GA8-Storytelling-LLMs)
+**GitHub Repository:** [TDS-GA8-Storytelling-LLMs](https://github.com/Sarthak-Saini265/TDS-GA8-Storytelling-LLMs)  
+**Assignment:** TDS GA8 - Data Storytelling with LLMs  
+**LLM Tools Used:** GitHub Copilot, ChatGPT  
+**Codex Reference:** https://chatgpt.com/codex/tasks
 
 ---
 
